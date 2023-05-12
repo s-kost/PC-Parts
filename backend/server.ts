@@ -9,6 +9,6 @@ server.get("/component", (req: Request, res: Response) => {res.send("Component")
 server.get("/product_name", (req: Request, res: Response) => {res.send("Product")});
 server.get("/cart", (req: Request, res: Response) => {res.send("My Cart")});
 
-server.listen(80)
+server.listen(420)
 
 
